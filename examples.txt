@@ -1,0 +1,9 @@
+desired_state = [ 
+    [id: "worker1", name: "poller-1", urls: ["https://example.com"], interval: 1000], 
+    [id: "worker2", name: "poller-2", urls: ["https://google.com"], interval: 2000]
+]
+
+desired_state2 = [ 
+    [id: "worker1", name: "poller-1", urls: ["https://example.com"], interval: 1000]
+]
+
