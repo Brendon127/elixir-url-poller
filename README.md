@@ -2,6 +2,16 @@
 
 A declarative URL polling system built with Elixir, featuring dynamic worker management and reconciliation of desired state
 
+- [Context](#context)
+- [Overview](#overview)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development Environment](#development-environment)
+- [Configuration](#configuration)
+- [How It Works](#how-it-works)
+
 ## Context
 
 In 2024 I followed an introductory course on Elixir. However, I never implemented my own project. In the last couple of weeks I have been thinking about how, in some aspects, the OTP and Kubernetes are similar. The result is this little pet project:
